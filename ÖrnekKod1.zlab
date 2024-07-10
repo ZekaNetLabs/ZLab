@@ -1,0 +1,4 @@
+a = "selam"
+::yazırılacak yazının değişkeni
+
+yazdır a
